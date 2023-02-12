@@ -1,0 +1,23 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edint-Lay/Todo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edint-Lay/Todo/issues"
+  },
+  "homepage": "https://github.com/Edint-Lay/Todo#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "typescript": "^4.9.5"
+  }
+}
